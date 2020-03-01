@@ -1,0 +1,21 @@
+
+#recentPosts{
+    padding: 20px 0;
+}
+#recentPost{
+    border-bottom: 1px solid #eee;
+    margin-bottom: 10px;
+}
+#recentPost h3{
+    color: #6c6c6c;
+    letter-spacing: 1px;
+    font-size: 14px;
+    font-weight: 500;
+    margin: 0;
+}
+
+#recentPost span{
+    font-size: 10px;
+    font-weight: 400;
+    color: #6c6c66;
+}

@@ -1,0 +1,10 @@
+body {
+    padding-top: 56px;
+  }
+#person-comment{
+    height: 50px;
+    width: 50px;
+  }
+#main{
+  padding-top: 25px;
+}

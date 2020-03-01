@@ -1,0 +1,17 @@
+body {
+  padding-top: 56px;
+}
+#blog-con{
+  padding-top: 25px;
+}
+.jumbotron {
+  padding: 25px;
+}
+.person {
+  height: 200px;
+  width: 250px;
+}
+#thumbnail {
+  height: 300px;
+  width: 730px;
+}
