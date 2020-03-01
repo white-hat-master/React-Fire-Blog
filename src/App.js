@@ -25,10 +25,10 @@ class App extends Component {
       profile: {}
     };
   }
-
+      // put your auth-0-lock details
     static defaultProps = {
-      clientID : "NhJHJ1frxprS97tE9v0Ao7rYaSti10cZ",
-      domain : "dev-pympo8e8.auth0.com"
+      clientID : "",
+      domain : ""
     }
 
     componentWillMount(){
